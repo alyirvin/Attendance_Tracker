@@ -31,7 +31,6 @@ The system operates within a Google Drive folder and consists of:
 ![Member Points View](./Images/memberPointsView.png)
 ![Sheets Monthly View](./Images/sheetsMonthView.png)
 
-
 ## How It Works
 1. Users access the Control Panel to generate sign-in forms and manage attendance.
 2. Members complete the sign-in forms for different events.

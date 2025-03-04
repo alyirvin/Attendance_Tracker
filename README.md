@@ -30,14 +30,12 @@ The system operates within a Google Drive folder and consists of:
 ### Google Drive Structure
 ![Member Points View](./Images/memberPointsView.png)
 ![Sheets Monthly View](./Images/sheetsMonthView.png)
-
 ## How It Works
 1. Users access the Control Panel to generate sign-in forms and manage attendance.
 2. Members complete the sign-in forms for different events.
 3. Attendance data is automatically logged and updates the Member Points Sheet.
 4. Users can view attendance records and point totals in real time.
-
-
+   
 ## Installation & Setup
 1. Copy the provided Google Sheets templates into your Google Drive.
 2. Set up the necessary Google Apps Scripts for automation.
@@ -49,3 +47,4 @@ The system operates within a Google Drive folder and consists of:
   - Set the event type to "Time-driven" and configure it to run daily at your preferred time.
 5. Begin using the Control Panel to track and manage attendance.
 
+### [Link to Example Google Drive](https://drive.google.com/drive/folders/17yo2PWSct377HT6DIZILLvyOyuBn3VNr?usp=sharing)
